@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://your-frontend-url.vercel.app"
+      "https://task-flow-kohl-beta.vercel.app"
     ],
     credentials: true,
   })
